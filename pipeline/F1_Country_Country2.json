@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "L0_Country",
+				"name": "queens",
 				"type": "ExecutePipeline",
 				"dependsOn": [],
 				"userProperties": [],
@@ -16,11 +16,11 @@
 				}
 			},
 			{
-				"name": "L1_Country1",
+				"name": "radiogaga",
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
-						"activity": "L0_Country",
+						"activity": "queens",
 						"dependencyConditions": [
 							"Succeeded"
 						]
