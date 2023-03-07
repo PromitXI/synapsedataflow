@@ -8,10 +8,6 @@
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
-					"pipeline": {
-						"referenceName": "L0_Location",
-						"type": "PipelineReference"
-					},
 					"waitOnCompletion": true
 				}
 			},
