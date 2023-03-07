@@ -14,7 +14,7 @@ steps:
   inputs:
     operation: 'validateDeploy'
     ArtifactsFolder: 'syn-dev-eus01'
-    azureSubscription: 'synapseqa'
+    azureSubscription: 'Promit''s Cloud(58a3cb06-91b3-4f09-82b8-882ec0a9c038)'
     ResourceGroupName: 'TEST-QA-EUS-RG'
     TargetWorkspaceName: 'syn-qa-eus01'
     DeleteArtifactsNotInTemplate: false
